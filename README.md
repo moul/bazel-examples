@@ -1,6 +1,8 @@
 
 # These are example snippets and BUILD files for [Bazel](github.com/google/bazel).
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/bazel-examples.svg)](https://www.guardrails.io)
+
   * A [recipe](android-prebuilts/README.md) for configuring AOSP
     prebuilt toolchains for Bazel.
 
